@@ -3,3 +3,6 @@ I am tatistician with a strong foundation in data analysis, statistical modeling
 
 ### Education 
   * Bachelor of Science in Statistics     Aug 2021 - June 2025
+    * University of Southeastern Philippines 
+    * Thesis on “A Machine Learning Approach to Weather Prediction in Davao City, Philippines: Integrating K-Means Clustering and K-Nearest Neighbors (k-NN)”
+ 
