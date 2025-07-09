@@ -17,7 +17,9 @@ Objective:
   4.	To compare the predictive performance of the optimal k-NN model and the cluster-based k-NN models to identify the best-performing approach.
 
 Code for https://github.com/MorganRvz/Projects/blob/main/Clustering_withKnn.ipynb
+
 Code for K-Nearest Neighbors (k-NN)
+
 Conclusion:
 ***
 Classification in Python
