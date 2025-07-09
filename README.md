@@ -16,7 +16,7 @@ Objective:
   3.	To build k-NN models for each cluster created by K-means clustering.
   4.	To compare the predictive performance of the optimal k-NN model and the cluster-based k-NN models to identify the best-performing approach.
 
-Code for K-means Clustering and K-Nearest Neighbors (k-NN)
+Code for K-means Clustering and K-Nearest Neighbors (k-NN) 
 Code for K-Nearest Neighbors (k-NN)
 Conclusion:
 ***
