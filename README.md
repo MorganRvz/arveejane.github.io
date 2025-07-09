@@ -3,6 +3,7 @@ I am a Statistician with a strong foundation in data analysis, statistical model
 ***
 ### Certifications
 Data Analyst with Python by DataCamp
+- [Data Analyst with Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/0032ef127802f764309cbb2276441094a5d9abb3) (Feb 2023) (DataCamp)
 
 Link: https://www.datacamp.com/completed/statement-of-accomplishment/track/0032ef127802f764309cbb2276441094a5d9abb3
 
