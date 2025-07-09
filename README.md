@@ -2,8 +2,9 @@
 I am a Statistician with a strong foundation in data analysis, statistical modeling, and academic research. Proficient in SPSS, R, and Python, with a keen eye for detail and a commitment to producing accurate, insightful results. Eager to contribute to data-driven projects and grow in a professional analytics environment.
 ***
 ### Certifications
-Data Analyst with Python by DataCamp
 - [Data Analyst with Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/0032ef127802f764309cbb2276441094a5d9abb3) (Feb 2023) (DataCamp)
+- [Exploratory and Analyzing Data in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/4c87b644e8de0190fb1b97155afe178aa9698fe6) (Jan 2023) (DataCamp)
+- [Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/d2ec6fb4e01e4b0f9ddaf97cf4ac608d7e206fa5) (Feb 2023) (Data Camp)
 
 
 ### Education
