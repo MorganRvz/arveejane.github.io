@@ -19,7 +19,7 @@ Objective:
 Code for https://github.com/MorganRvz/Projects/blob/main/Clustering_withKnn.ipynb
 
 Code for K-Nearest Neighbors (k-NN)
-
+Knn.ipynb
 Conclusion:
 ***
 Classification in Python
