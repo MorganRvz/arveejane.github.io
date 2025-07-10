@@ -1,5 +1,6 @@
-# Arvee Jane E. Montera
+# Statistician, Data Analyst
 I am a Statistician with a strong foundation in data analysis, statistical modeling, and academic research. Proficient in SPSS, R, and Python, with a keen eye for detail and a commitment to producing accurate, insightful results. Eager to contribute to data-driven projects and grow in a professional analytics environment.
+
 ***
 ### Certifications
 - [Data Analyst with Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/0032ef127802f764309cbb2276441094a5d9abb3) (Feb 2023) (DataCamp)
@@ -10,6 +11,7 @@ I am a Statistician with a strong foundation in data analysis, statistical model
 ### Education
 University of Southeastern Philippines
 Bachelor of Science in Statistics Aug 2021- June 2025
+
 ***
 # Project
 This section showcases the data analytics projects I created during my college years and more recently.
@@ -46,7 +48,10 @@ Conclusion: Among the two models evaluated, the Random Forest Classifier provide
 Retrieved Dataset: [Avocado Ripeness](https://www.kaggle.com/datasets/amldvvs/avocado-ripeness-classification-dataset)
 
 ***
-Correlation and EDA
+Title: Correlational Analysis on Years of Experience and Salary
+Objective:
+  1. To determine the strength and direction of the linear relationship between years of experience and salary using statistical correlation analysis.
+
 ***
 ## R Programming 
 Regression Machine Learning
