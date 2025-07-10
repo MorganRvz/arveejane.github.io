@@ -44,10 +44,11 @@ Code for [Random Forest and k-NN_ Avocado Ripeness Classification](https://githu
 Conclusion: Among the two models evaluated, the Random Forest Classifier provided the most accurate and consistent performance, making it the most suitable algorithm for classifying avocado ripeness in this study.
 
 Retrieved Dataset: [Avocado Ripeness](https://www.kaggle.com/datasets/amldvvs/avocado-ripeness-classification-dataset)
+
 ***
 Correlation and EDA
 ***
-## R programming 
+## R Programming 
 Regression Machine Learning
 Classification Machine Learning 
 Correlation and EDA
