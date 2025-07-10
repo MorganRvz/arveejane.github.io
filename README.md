@@ -33,7 +33,6 @@ Conclusion:
 The k-NN model applied to the full dataset outperformed the cluster-based approach in predicting relative humidity, suggesting that clustering did not enhance model performance in this case
 
 ***
-Classification in Python
 Title:
 Comparative Analysis of Avocado Ripeness Classification Using Random Forest and k-Nearest Neighbors (k-NN)
 Objectives:
