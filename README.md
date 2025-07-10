@@ -25,9 +25,9 @@ Objectives:
   3.	To build k-NN models for each cluster created by K-means clustering.
   4.	To compare the predictive performance of the optimal k-NN model and the cluster-based k-NN models to identify the best-performing approach.
 
-Code for K-means Clustering integrated with K-Nearest Neighbors (k-NN): https://github.com/MorganRvz/Projects/blob/main/Clustering_withKnn.ipynb
+Code for [K-means Clustering integrated with K-Nearest Neighbors (k-NN)](https://github.com/MorganRvz/Projects/blob/main/Clustering_withKnn.ipynb)
 
-Code for K-Nearest Neighbors (k-NN): https://github.com/MorganRvz/Projects/blob/main/Knn.ipynb
+Code for [K-Nearest Neighbors (k-NN)](https://github.com/MorganRvz/Projects/blob/main/Knn.ipynb)
 
 Conclusion:
 The k-NN model applied to the full dataset outperformed the cluster-based approach in predicting relative humidity, suggesting that clustering did not enhance model performance in this case
