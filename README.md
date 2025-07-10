@@ -27,12 +27,12 @@ Objectives:
   3.	To build k-NN models for each cluster created by K-means clustering.
   4.	To compare the predictive performance of the optimal k-NN model and the cluster-based k-NN models to identify the best-performing approach.
 
+Conclusion:
+The k-NN model applied to the full dataset outperformed the cluster-based approach in predicting relative humidity, suggesting that clustering did not enhance model performance in this case
+
 Code for [K-means Clustering integrated with K-Nearest Neighbors (k-NN)](https://github.com/MorganRvz/Projects/blob/main/Clustering_withKnn.ipynb)
 
 Code for [K-Nearest Neighbors (k-NN)](https://github.com/MorganRvz/Projects/blob/main/Knn.ipynb)
-
-Conclusion:
-The k-NN model applied to the full dataset outperformed the cluster-based approach in predicting relative humidity, suggesting that clustering did not enhance model performance in this case
 
 ***
 Title:
@@ -41,9 +41,9 @@ Objectives:
   1. To develop Random Forest and k-Nearest Neighbors (k-NN).
   2. Aims to assess which machine learning algorithm—Random Forest or k-Nearest Neighbors (k-NN)—yields higher accuracy in classifying the ripeness of avocados.
 
-Code for [Random Forest and k-NN_ Avocado Ripeness Classification](https://github.com/MorganRvz/Projects/blob/main/Random_Forest_and_k-NN_%20Avocado_Ripesness_Classification.ipynb)
-
 Conclusion: Among the two models evaluated, the Random Forest Classifier provided the most accurate and consistent performance, making it the most suitable algorithm for classifying avocado ripeness in this study.
+
+Code for [Random Forest and k-NN_ Avocado Ripeness Classification](https://github.com/MorganRvz/Projects/blob/main/Random_Forest_and_k-NN_%20Avocado_Ripesness_Classification.ipynb)
 
 Retrieved Dataset: [Avocado Ripeness](https://www.kaggle.com/datasets/amldvvs/avocado-ripeness-classification-dataset)
 
@@ -52,6 +52,11 @@ Title: Correlational Analysis on Years of Experience and Salary
 Objective:
   1. To determine the strength and direction of the linear relationship between years of experience and salary using statistical correlation analysis.
 
+Conclusion: The correlation coefficient between Years of Experience and Salary is approximately 0.98, indicating a very strong positive linear relationship.
+This means that as the number of years of experience increases, the salary also tends to increase significantly. 
+The strength of this correlation suggests that experience is a major factor influencing salary growth.
+Code for the [Correlational Analysis](https://github.com/MorganRvz/Projects/blob/main/Correlational_Analysis_YearsExperience_Salary.ipynb)
+Retrieved Dataset: [Experience and Salary](https://www.kaggle.com/datasets/atharvadarpude/experience-salary-dataset-for-linear-regression)
 ***
 ## R Programming 
 Regression Machine Learning
