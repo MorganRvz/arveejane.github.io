@@ -8,17 +8,18 @@ I am a Statistician with a strong foundation in data analysis, statistical model
 
 
 ### Education
+University of Southeastern Philippines
 Bachelor of Science in Statistics Aug 2021- June 2025
 ***
 # Project
-This section showcases the data analytics projects that I made during my college years and recently.
+This section showcases the data analytics projects I created during my college years and more recently.
 
 ***
 
 ## Python
 Title:
 A Machine Learning Approach to Weather Prediction in Davao City, Philippines: Integrating K-Means Clustering and K-Nearest Neighbors (k-NN)
-Objective:
+Objectives:
   1.	To develop a k-NN model that accurately predicts relative humidity based on input variables such as visibility, temperature, pressure, and wind speed using the entire dataset.
   2.	To create groups of data points with similar characteristics using K-means clustering.
   3.	To build k-NN models for each cluster created by K-means clustering.
@@ -33,6 +34,11 @@ The k-NN model applied to the full dataset outperformed the cluster-based approa
 
 ***
 Classification in Python
+Title:
+Comparative Analysis of Avocado Ripeness Classification Using Random Forest and k-Nearest Neighbors (k-NN)
+Objectives:
+  1. To develop Random Forest and k-Nearest Neighbors (k-NN).
+  2. Aims to assess which machine learning algorithm—Random Forest or k-Nearest Neighbors (k-NN)—yields higher accuracy in classifying the ripeness of avocados.
 ***
 Correlation and EDA
 ***
