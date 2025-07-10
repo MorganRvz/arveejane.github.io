@@ -39,7 +39,7 @@ Objectives:
   1. To develop Random Forest and k-Nearest Neighbors (k-NN).
   2. Aims to assess which machine learning algorithm—Random Forest or k-Nearest Neighbors (k-NN)—yields higher accuracy in classifying the ripeness of avocados.
 
-Code for Random Forest Classifier and k-Nearest Neighbors Classifier: https://github.com/MorganRvz/Projects/blob/main/Random%20Forest%20and%20k-NN_%20Avocado%20Ripesness%20Classification.ipynb
+Code for Random Forest Classifier and k-Nearest Neighbors Classifier: Random Forest and k-NN_ Avocado Ripesness Classification.ipynb
 
 Conclusion: Among the two models evaluated, the Random Forest Classifier provided the most accurate and consistent performance, making it the most suitable algorithm for classifying avocado ripeness in this study.
 ***
