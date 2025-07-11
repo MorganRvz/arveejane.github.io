@@ -76,9 +76,17 @@ Objectives:
 Conclusion:  The KNN model showed solid performance in predicting property prices, with an RMSE of 3.91, R² of 0.75, and MAE of 3.76 on the test set, indicating a good but slightly imperfect fit. In comparison, Ridge Regression achieved an RMSE of 0.50, R² of 0.84, and MAE of 0.33, demonstrating a better fit with lower prediction errors. Lasso Regression had similar results to Ridge, with an RMSE of 0.50, R² of 0.84, and MAE of 0.38, suggesting that both regularized regression models handled the data effectively. On the other hand, the Random Forest model excelled with an RMSE of 0.40, R² of 0.90, and MAE of 0.25, outperforming the KNN, Ridge, and Lasso models, showcasing its ability to handle complex relationships in the data.
 
 Code for [Real Estate Price Prediction in the Philippines Using Ensemble and Regularization-Based Machine Learning Models](https://github.com/MorganRvz/Projects/blob/main/K-NN%2C%20LASSO%20Regression%2C%20Ridge%20Regression%20and%20Random%20Forest%20on%20House%20Prices%20in%20the%20Philippines.rmd)
-Classification Machine Learning 
+***
 
-Correlation and EDA
+Title: A Robust k-NN Model for Breast Cancer Survival Analysis: Tackling Class Imbalance with Upsampling and Downsampling
+Objectives:
+  1. To develop a predictive model for breast cancer survival status (alive or dead) using the k-Nearest Neighbors (k-NN) algorithm
+  2. To address class imbalance in the dataset using upsampling and downsampling techniques for fair model training.
+  3. To evaluate the classification performance of the k-NN model using metrics such as accuracy, sensitivity, specificity, and AUC (Area Under the Curve).
+  4. To analyze the impact of class balancing methods on the predictive performance of the k-NN model
+
+Code for [A Robust k-NN Model for Breast Cancer Survival Analysis: Tackling Class Imbalance with Upsampling and Downsampling](https://github.com/MorganRvz/Projects/blob/main/A%20Robust%20k-NN%20Model%20for%20Breast%20Cancer%20Survival%20Analysis%20Tackling%20Class%20Imbalance%20with%20Upsampling%20and%20Downsampling.Rmd)
+
 ***
 ## SQL
 ***
