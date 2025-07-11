@@ -64,8 +64,20 @@ Retrieved Dataset: [Experience and Salary](https://www.kaggle.com/datasets/athar
 
 ***
 ## R Programming 
-Regression Machine Learning
+
+***
+Title: Real Estate Price Prediction in the Philippines Using Ensemble and Regularization-Based Machine Learning Models
+Objectives:
+  1. To preprocess and transform non-normally distributed variables, including applying a logarithmic transformation to the target variable (Price), and handle missing values appropriately.
+  2. To evaluate the predictive performance of four machine learning models—K-Nearest Neighbors (KNN), Ridge Regression, Lasso Regression, and Random Forest—for estimating property prices in the Philippines.
+  3. To compare the models’ performance using metrics such as Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and Coefficient of Determination (R²).
+  4. To perform cluster analysis on property features (e.g., Bedrooms, Bathrooms, Floor Area, Land Area, Latitude, and Longitude) to identify distinct groups of properties.
+
+Conclusion:  The KNN model showed solid performance in predicting property prices, with an RMSE of 3.91, R² of 0.75, and MAE of 3.76 on the test set, indicating a good but slightly imperfect fit. In comparison, Ridge Regression achieved an RMSE of 0.50, R² of 0.84, and MAE of 0.33, demonstrating a better fit with lower prediction errors. Lasso Regression had similar results to Ridge, with an RMSE of 0.50, R² of 0.84, and MAE of 0.38, suggesting that both regularized regression models handled the data effectively. On the other hand, the Random Forest model excelled with an RMSE of 0.40, R² of 0.90, and MAE of 0.25, outperforming the KNN, Ridge, and Lasso models, showcasing its ability to handle complex relationships in the data.
+
+Code for [Real Estate Price Prediction in the Philippines Using Ensemble and Regularization-Based Machine Learning Models](https://github.com/MorganRvz/Projects/blob/main/K-NN%2C%20LASSO%20Regression%2C%20Ridge%20Regression%20and%20Random%20Forest%20on%20House%20Prices%20in%20the%20Philippines.rmd)
 Classification Machine Learning 
+
 Correlation and EDA
 ***
 ## SQL
