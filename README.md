@@ -85,6 +85,9 @@ Objectives:
   3. To evaluate the classification performance of the k-NN model using metrics such as accuracy, sensitivity, specificity, and AUC (Area Under the Curve).
   4. To analyze the impact of class balancing methods on the predictive performance of the k-NN model
 
+Conclusion: After meticulous tabulation, we obtained the following results: the KNN cross-validation (downsampling) yielded an accuracy of 84.2%, while the KNN-bootstrap (downsampling) yielded an accuracy of 84.5%. As we observe, there is only a tiny difference between the two models. Since kNN-Boot has higher accuracy, we conclude that the kNN model with bootstrapping (downsampling) is better. 
+
+
 Code for [A Robust k-NN Model for Breast Cancer Survival Analysis: Tackling Class Imbalance with Upsampling and Downsampling](https://github.com/MorganRvz/Projects/blob/main/A%20Robust%20k-NN%20Model%20for%20Breast%20Cancer%20Survival%20Analysis%20Tackling%20Class%20Imbalance%20with%20Upsampling%20and%20Downsampling.Rmd)
 
 ***
