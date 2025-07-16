@@ -91,7 +91,4 @@ Conclusion: After meticulous tabulation, we obtained the following results: the 
 
 Code for [A Robust k-NN Model for Breast Cancer Survival Analysis: Tackling Class Imbalance with Upsampling and Downsampling](https://github.com/MorganRvz/Projects/blob/main/A%20Robust%20k-NN%20Model%20for%20Breast%20Cancer%20Survival%20Analysis%20Tackling%20Class%20Imbalance%20with%20Upsampling%20and%20Downsampling.Rmd)
 
-***
-## SQL
-***
-## Power BI
+
