@@ -11,6 +11,8 @@ I am a Statistician with a strong foundation in data analysis, statistical model
 ### Education
 University of Southeastern Philippines
 Bachelor of Science in Statistics Aug 2021- June 2025
+### Resume 
+[Arvee Jane Montera](https://github.com/MorganRvz/Projects/blob/main/ArveeJaneMonteraRESUME.pdf)
 
 ***
 # Project
